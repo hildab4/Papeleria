@@ -1,4 +1,4 @@
-# Papeleria
+# Paper Paradise
 Es un sistema de ventas para papelerías.
 
 # Función
